@@ -2,24 +2,22 @@
     <a href="https://github.com/reagordi" target="_blank">
         <img src="https://raw.githubusercontent.com/reagordi/docs/main/images/logo.png" alt="Reagordi" height="100px">
     </a>
-    <h1 align="center">Reagordi Package template</h1>
+    <h1 align="center">Reagordi Contracts Exceptions</h1>
     <br>
 </p>
 
+[![Latest Stable Version](https://poser.pugx.org/reagordi/contracts-exceptions/v/stable.png)](https://packagist.org/packages/reagordi/contracts-exceptions)
+[![Total Downloads](https://poser.pugx.org/reagordi/contracts-exceptions/downloads.png)](https://packagist.org/packages/reagordi/contracts-exceptions)
+[![Build status](https://github.com/reagordi/contracts-exceptions/workflows/build/badge.svg)](https://github.com/reagordi/contracts-exceptions/actions?query=workflow%3Abuild)
+[![Code Coverage](https://codecov.io/gh/reagordi/contracts-exceptions/branch/master/graph/badge.svg)](https://codecov.io/gh/reagordi/contracts-exceptions)
 
+[![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2Freagordi%2Fcontracts-exceptions%2Fmain)](https://dashboard.stryker-mutator.io/reports/github.com/reagordi/contracts-exceptions/main)
 
-[![Latest Stable Version](https://poser.pugx.org/reagordi/package-template/v/stable.png)](https://packagist.org/packages/reagordi/package-template)
-[![Total Downloads](https://poser.pugx.org/reagordi/package-template/downloads.png)](https://packagist.org/packages/reagordi/package-template)
-[![Build status](https://github.com/reagordi/package-template/workflows/build/badge.svg)](https://github.com/reagordi/package-template/actions?query=workflow%3Abuild)
-[![Code Coverage](https://codecov.io/gh/reagordi/package-template/branch/master/graph/badge.svg)](https://codecov.io/gh/reagordi/package-template)
+[![static analysis](https://github.com/reagordi/contracts-exceptions/workflows/static%20analysis/badge.svg)](https://github.com/reagordi/contracts-exceptions/actions?query=workflow%3A%22static+analysis%22)
+[![type-coverage](https://shepherd.dev/github/reagordi/contracts-exceptions/coverage.svg)](https://shepherd.dev/github/reagordi/contracts-exceptions)
+[![psalm-level](https://shepherd.dev/github/reagordi/contracts-exceptions/level.svg)](https://shepherd.dev/github/reagordi/contracts-exceptions)
 
-[![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2Freagordi%2Fpackage-template%2Fmain)](https://dashboard.stryker-mutator.io/reports/github.com/reagordi/package-template/main)
-
-[![static analysis](https://github.com/reagordi/package-template/workflows/static%20analysis/badge.svg)](https://github.com/reagordi/package-template/actions?query=workflow%3A%22static+analysis%22)
-[![type-coverage](https://shepherd.dev/github/reagordi/package-template/coverage.svg)](https://shepherd.dev/github/reagordi/package-template)
-[![psalm-level](https://shepherd.dev/github/reagordi/package-template/level.svg)](https://shepherd.dev/github/reagordi/package-template)
-
-The package ...
+Basic exception classes of the Reagordi Framework
 
 ## Requirements
 
@@ -30,7 +28,7 @@ The package ...
 The package could be installed with composer:
 
 ```shell
-composer require reagordi/package-template
+composer require reagordi/contracts-exceptions
 ```
 
 ## General usage
@@ -78,7 +76,7 @@ Use [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) 
 
 ## License
 
-The Reagordi Package template is free software. It is released under the terms of the BSD License.
+The Reagordi Contracts Exceptions is free software. It is released under the terms of the BSD License.
 Please see [`LICENSE`](./LICENSE.md) for more information.
 
 Maintained by [Reagordi Group](https://reagordi.com/).
